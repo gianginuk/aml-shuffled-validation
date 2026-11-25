@@ -1,0 +1,8 @@
+# Classical models (logistic regression, Random Forest, XGBoost), CPU.
+# Versions of scikit-learn and XGBoost match both environments used in the paper.
+numpy>=2.1
+pandas>=2.2
+pyarrow>=15
+scikit-learn==1.6.1
+xgboost==3.4.1
+matplotlib>=3.8

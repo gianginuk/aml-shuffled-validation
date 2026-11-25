@@ -1,0 +1,9 @@
+# data are downloaded on first use and not redistributed
+data/*.parquet
+data/*.csv
+# per-run model predictions (large); archived summaries live in results/paper/
+results/e0_predictions/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

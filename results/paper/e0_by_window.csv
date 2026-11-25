@@ -1,0 +1,21 @@
+Model,Window,AUC mean,AUC SD
+Logistic,t=10-19,0.972,
+Logistic,t=20-29,0.8587,
+Logistic,t=30-39,0.8898,
+Logistic,t=40-49,0.8905,
+Random Forest,t=10-19,0.9949,0.0005
+Random Forest,t=20-29,0.8628,0.0101
+Random Forest,t=30-39,0.9906,0.0005
+Random Forest,t=40-49,0.935,0.0018
+XGBoost,t=10-19,0.9965,0.0
+XGBoost,t=20-29,0.9062,0.0
+XGBoost,t=30-39,0.9916,0.0
+XGBoost,t=40-49,0.9478,0.0
+TabPFN,t=10-19,0.9975,0.0002
+TabPFN,t=20-29,0.9175,0.0054
+TabPFN,t=30-39,0.9954,0.0003
+TabPFN,t=40-49,0.9609,0.0012
+TabPFN (10k cap),t=10-19,0.9974,
+TabPFN (10k cap),t=20-29,0.9051,
+TabPFN (10k cap),t=30-39,0.9949,
+TabPFN (10k cap),t=40-49,0.9574,

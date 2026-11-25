@@ -1,0 +1,7 @@
+# Environment 2 (cloud notebook, CPU)
+# Used for: the classical models of E1, and E3. Versions read from the runtime after the runs.
+python==3.13.18
+numpy==2.4.6
+pandas==2.2.3
+scikit-learn==1.6.1
+xgboost==3.4.1

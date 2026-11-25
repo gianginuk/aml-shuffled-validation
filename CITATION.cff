@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Code for: How Much Does Shuffled Validation Hide? Look-Ahead Bias and Label Delay in Cryptocurrency Anti-Money-Laundering Models"
+type: software
+authors:
+  - family-names: Ha
+    given-names: Giang
+    affiliation: "Ulster University Business School"
+version: 1.0.0
+date-released: 2026-11-26
+license: MIT
+keywords:
+  - cryptocurrency
+  - anti-money laundering
+  - look-ahead bias
+  - label delay
+  - walk-forward validation
+  - tabular foundation models
+preferred-citation:
+  type: report
+  title: "How Much Does Shuffled Validation Hide? Look-Ahead Bias and Label Delay in Cryptocurrency Anti-Money-Laundering Models"
+  authors:
+    - family-names: Ha
+      given-names: Giang
+      affiliation: "Ulster University Business School"
+  institution:
+    name: "Ulster University Business School"
+  year: 2026
+  notes: "Working paper, version 1"

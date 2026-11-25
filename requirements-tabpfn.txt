@@ -1,0 +1,4 @@
+# TabPFN on GPU (paper: Kaggle, Tesla T4). Install on top of requirements.txt.
+-r requirements.txt
+torch==2.11.0
+tabpfn==9.2.0   # loads the TabPFN-3.5 checkpoint tabpfn-v3.5-20260909
